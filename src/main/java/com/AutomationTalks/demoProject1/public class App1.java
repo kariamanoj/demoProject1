@@ -4,5 +4,6 @@ public class App1
     {
         System.out.println( "Second Class" );
         System.out.println( "Just Checking );
+        System.out.println( "Update on GIT );
     }
 }
